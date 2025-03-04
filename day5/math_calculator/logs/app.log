@@ -1,0 +1,6 @@
+2025-03-04 16:47:07,821 - INFO - Exiting program.
+2025-03-04 16:47:22,833 - INFO - Valid expression: 2+3(7*4)
+2025-03-04 16:48:56,569 - INFO - Valid expression: 2+3(7*4)
+2025-03-04 16:49:12,793 - INFO - Valid expression: 2+3+(7*4)
+2025-03-04 16:49:12,794 - INFO - Result of '2+3+(7*4)' is 33.0
+2025-03-04 16:49:30,969 - INFO - Exiting program.

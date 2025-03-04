@@ -1,0 +1,1 @@
+prime={num for num in range(1,51) if num%}
